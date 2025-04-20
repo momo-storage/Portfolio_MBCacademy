@@ -14,5 +14,7 @@ MBC아카데미 요양보호사교육원의 웹사이트 퍼블리싱 작업입�
 
 - HTML5
 - CSS3
-- jQuery,Javascript
+- jQuery
+- GSAP (TweenMax)
+- Javascript
 
